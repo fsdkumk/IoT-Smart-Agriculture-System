@@ -9,3 +9,5 @@ Here are some pictures that were taken during the event:
 ![image](https://github.com/fsdkumk/IoT-Smart-Agriculture-System-using-ESP8266/assets/141599942/403a9541-a131-43c2-85e2-b8fcc78c8deb)
 
 ![e](https://github.com/fsdkumk/IoT-Smart-Agriculture-System-using-ESP8266/assets/141599942/c62d4e7f-08d7-4d74-a855-12bc9c6eddc3)
+
+![image](https://github.com/fsdkumk/IoT-Smart-Agriculture-System-using-ESP8266/assets/141599942/60af0510-4233-4c46-9a64-8cc665cf5244)
