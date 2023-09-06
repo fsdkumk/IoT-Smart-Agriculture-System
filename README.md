@@ -1,4 +1,3 @@
-# IoT-Smart-Agriculture-System-using-ESP8266
 # GROUP 9
 The name of the project is Smart Agriculture.
 This project is made using the main component which is ESP8266.
